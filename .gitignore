@@ -208,3 +208,10 @@ __marimo__/
 
 
 churn_prediction_venv
+*.pkl
+*.joblib
+
+cm_*.png
+roc_curve_*.png
+feat_imp_*.png
+*.csv
